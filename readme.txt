@@ -4,3 +4,4 @@ git had a mutable index called stage.
 git tracked changes of files.
 creating a new branch is quick and simple.
 add merge
+git stash
